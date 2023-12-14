@@ -1,0 +1,29 @@
+.align {
+    max-width: max-content;
+    margin: 0 auto;
+}
+
+.twitter {
+    top: 110px;
+    left: 1825px;
+    position: absolute;
+}
+
+.instagram {
+    top: 110px;
+    left: 1750px;
+    position: absolute;
+}
+
+.menu {
+    transition: all linear 0.5s;
+}
+
+.menu:hover {
+    opacity: 20%;
+    transform: scaleY(0.5);
+}
+
+a {
+    text-decoration: none;
+  }
